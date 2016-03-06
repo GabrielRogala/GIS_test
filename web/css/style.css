@@ -1,0 +1,42 @@
+.type{
+    display:inline-block;
+    width:60px;
+    height:20px;
+    line-height:13px;
+    margin-bottom:5px;
+    background-color:#eee;
+    background:linear-gradient(#eeeeee,#cccccc);
+    border:1px solid #bbb;
+    border-radius:2px;
+    color:#fff;
+    font-size:10px;
+    text-align:center;
+    text-shadow:1px 1px 1px #333;
+    text-transform:uppercase
+}
+.type.normal{background-color:#8a8a59;background:linear-gradient(#a8a878,#8a8a59);border-color:#79794e}
+.type.fire{background-color:#f08030;background:linear-gradient(#f08030,#dd6610);border-color:#b4530d}
+.type.water{background-color:#6890f0;background:linear-gradient(#6890f0,#386ceb);border-color:#1753e3}
+.type.electric{background-color:#f8d030;background:linear-gradient(#f8d030,#f0c108);border-color:#c19b07}
+.type.grass{background-color:#78c850;background:linear-gradient(#78c850,#5ca935);border-color:#4a892b}
+.type.ice{background-color:#98d8d8;background:linear-gradient(#98d8d8,#69c6c6);border-color:#45b6b6}
+.type.fighting{background-color:#c03028;background:linear-gradient(#c03028,#9d2721);border-color:#82211b}
+.type.poison{background-color:#a040a0;background:linear-gradient(#a040a0,#803380);border-color:#662966}
+.type.ground{background-color:#e0c068;background:linear-gradient(#e0c068,#d4a82f);border-color:#aa8623}
+.type.flying{background-color:#a890f0;background:linear-gradient(#a890f0,#9180c4);border-color:#7762b6}
+.type.psychic{background-color:#f85888;background:linear-gradient(#f85888,#f61c5d);border-color:#d60945}
+.type.bug{background-color:#a8b820;background:linear-gradient(#a8b820,#8d9a1b);border-color:#616b13}
+.type.rock{background-color:#b8a038;background:linear-gradient(#b8a038,#93802d);border-color:#746523}
+.type.ghost{background-color:#705898;background:linear-gradient(#705898,#554374);border-color:#413359}
+.type.dragon{background-color:#7038f8;background:linear-gradient(#7038f8,#4c08ef);border-color:#3d07c0}
+.type.steel{background-color:#b8b8d0;background:linear-gradient(#b8b8d0,#9797ba);border-color:#7a7aa7}
+.type.dark{background-color:#705848;background:linear-gradient(#705848,#513f34);border-color:#362a23}
+.type.curse{background-color:#68a090;background:linear-gradient(#68a090,#4e7c6f);border-color:#41685d}
+.type.fiz{background-color:#c03028;background:linear-gradient(#c03028,#9d2721);border-color:#82211b}
+.type.sta{background-color:#cacaca;background:linear-gradient(#cacaca,#e5e5e5);border-color:#b6b6b6}
+.type.spe{background-color:#a7c2d5;background:linear-gradient(#539cce,#49a9eb);border-color:#498ab7}
+.type.fairy{background:#e898e8;background-image:-webkit-linear-gradient(#e898e8, #de6ede);background-image:-moz-linear-gradient(#e898e8, #de6ede);background-image:-o-linear-gradient(#e898e8, #de6ede);background-image:linear-gradient(#e898e8,#de6ede);border-color:#d547d5}
+
+
+
+
